@@ -1,14 +1,16 @@
 [Getting started](#getting-started)
 
-[Command for creating react app](#Create-app)
+[Command for creating react app](#create-app)
 
-[Clone this app](#Clone-app)
+[Clone this app](#clone-this-app)
 
-[Run the app](#Run-the-app)
+[Run the app](#run-the-app)
 
-[UI developed using Material UI](#Material-UI)
+[UI developed using Material UI](#material-UI)
 
-[Create a git account](#Create-a-git-account)
+[Create a git account](#create-a-git-account)
+
+[Push commits to your repo](push-commits-to-your-repo)
 
 # Getting started
 
@@ -48,4 +50,7 @@ Install the following
 # Create a github account
 
 Create a github account here 'https://github.com/'
-Create a repository.
+
+# Push commits to your repo
+
+Create a repository and follow the instructions that will be displayed.
