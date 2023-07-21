@@ -1,8 +1,13 @@
 [Getting started](#getting-started)
+
 [Command for creating react app](#Create-app)
+
 [Clone this app](#Clone-app)
+
 [Run the app](#Run-the-app)
+
 [UI developed using Material UI](#Material-UI)
+
 [Create a git account](#Create-a-git-account)
 
 # Getting started
@@ -40,6 +45,7 @@ Install the following
 2. npm install @emotion/react
 3. npm install @emotion/styled
 
-# Create a git account
+# Create a github account
 
-Create a github account and push your app
+Create a github account here 'https://github.com/'
+Create a repository.
