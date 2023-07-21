@@ -35,7 +35,7 @@ next install node modules for this app 'npm install'
 
 open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on 'http://localhost:3000/'
 
-# UI developed using Material UI
+# Material UI
 
 Enhance app appearance using Material UI
 
