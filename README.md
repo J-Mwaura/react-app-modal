@@ -12,6 +12,8 @@
 
 [Push commits to your repo](#push-commits-to-your-repo)
 
+[Serving app on public domain](#Serving-app-on-public-domain)
+
 # Getting started
 
 Pay attention to the format of this README file.
@@ -33,13 +35,13 @@ next install node modules for this app 'npm install'
 
 # Run the app
 
-open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on 'http://localhost:3000/'
+open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on http://localhost:3000
 
 # Material UI
 
 Enhance app appearance using Material UI
 
-'https://mui.com/material-ui/getting-started/installation/'
+https://mui.com/material-ui/getting-started/installation
 
 Install the following
 
@@ -49,8 +51,21 @@ Install the following
 
 # Create a github account
 
-Create a github account here 'https://github.com/'
+Create a github account here https://github.com
 
 # Push commits to your repo
 
 Create a repository and follow the instructions that will be displayed.
+
+# Serving app on public domain
+
+To host your app create an account on netlify https://app.netlify.com.
+
+The easiest way is to use your github accout.
+
+On netlify go to 'Add new site' and click on 'Import an existing project'
+
+Import your project from a Git repository.
+
+If all goes well at this point you should be able to serve your app on the browser.
+
