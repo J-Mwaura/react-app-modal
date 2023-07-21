@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+[Getting started](#getting-started)
+[Command for creating react app](#Create-app)
+[Clone this app](#Clone-app)
+[Run the app](#Run-the-app)
+[UI developed using Material UI](#Material-UI)
+[Create a git account](#Create-a-git-account)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting started
 
-## Available Scripts
+Pay attention to the format of this README file.
 
-In the project directory, you can run:
+Have the following installed on your computer
 
-### `npm start`
+1. Visual studio IDE - https://code.visualstudio.com/download
+2. Node js - https://nodejs.org/en/download/
+3. Git tools - https://gitforwindows.org/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Create app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npx create-react-app my-app
 
-### `npm test`
+# Clone this app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Use 'git clone $repo' to clone this app.
+next install node modules for this app 'npm install'
 
-### `npm run build`
+# Run the app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on 'http://localhost:3000/'
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# UI developed using Material UI
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Enhance app appearance using Material UI
 
-### `npm run eject`
+'https://mui.com/material-ui/getting-started/installation/'
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install the following
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. npm install @mui/icons-material
+2. npm install @emotion/react
+3. npm install @emotion/styled
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Create a git account
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Create a github account and push your app
