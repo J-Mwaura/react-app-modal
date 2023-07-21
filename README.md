@@ -12,7 +12,7 @@
 
 [Push commits to your repo](#push-commits-to-your-repo)
 
-[Serving app on public domain](#Serving-app-on-public-domain)
+[Serving app on public domain](#serving-app-on-public-domain)
 
 # Getting started
 
