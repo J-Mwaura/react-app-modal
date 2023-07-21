@@ -8,7 +8,7 @@
 
 [UI developed using Material UI](#material-ui)
 
-[Create a git account](#create-a-git-account)
+[Create a github account](#create-a-github-account)
 
 [Push commits to your repo](#push-commits-to-your-repo)
 
