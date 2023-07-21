@@ -6,11 +6,11 @@
 
 [Run the app](#run-the-app)
 
-[UI developed using Material UI](#material-UI)
+[UI developed using Material UI](#material-ui)
 
 [Create a git account](#create-a-git-account)
 
-[Push commits to your repo](push-commits-to-your-repo)
+[Push commits to your repo](#push-commits-to-your-repo)
 
 # Getting started
 
