@@ -31,11 +31,12 @@ npx create-react-app my-app
 # Clone this app
 
 Use 'git clone $repo' to clone this app.
-next install node modules for this app 'npm install'
+
+Install node modules 'npm install'
 
 # Run the app
 
-open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on http://localhost:3000
+Open terminal on VS or use a command line interface like gitbash or Poweshell and type this command 'npm start'. The app will open on http://localhost:3000
 
 # Material UI
 
@@ -67,5 +68,5 @@ On netlify go to 'Add new site' and click on 'Import an existing project'
 
 Import your project from a Git repository.
 
-If all goes well at this point you should be able to serve your app on the browser.
+If all the above steps have been met, the app should open on the browser.
 

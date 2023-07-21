@@ -1,5 +1,6 @@
 import './App.css';
 import Footer from './components/Footer';
+import Home from './components/Home';
 import NavTop from './components/NavTop';
 
 function App() {
@@ -8,7 +9,9 @@ function App() {
       <div>
       <NavTop/>
       </div>
-      <div className='content'></div>
+      <div className='content'>
+        <Home/>
+      </div>
       <Footer/>
     </div>
   );
